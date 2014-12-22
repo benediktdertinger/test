@@ -1,9 +1,1 @@
-Dies ist der neue Inhalt!
-Und dieser wurde außerhalb des Subtrees hinzugefügt.
-Und dies wurde wieder hinzugefügt!
-Wieder neu!
-Im Test gesetzt
-Dies ist im Original neu gesetzt!
-Letzte Änderung!
-Wider neu
-wqerqwe
+Geändert!
